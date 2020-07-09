@@ -1,6 +1,8 @@
 # translate
 
-A new Flutter application.
+Translate is a web based application where you can convert the text from english to other languages
+You can visit this website through this link https://translator-25e98.firebaseapp.com/#/
+
 
 ## Getting Started
 
