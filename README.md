@@ -4,6 +4,11 @@ Translate is a web based application where you can convert the text from english
 You can visit this website through this link https://translator-25e98.firebaseapp.com/#/
 
 
+
+![Screenshot (52)](https://user-images.githubusercontent.com/50042488/87069597-1a636c00-c235-11ea-8373-59bdd3519e19.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
